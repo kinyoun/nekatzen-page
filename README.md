@@ -3,4 +3,4 @@ This repo contains all the files needed for the landing page of The Odin Project
 
 https://pixabay.com/es/photos/kitty-juguet%c3%b3n-flores-2948404/
 https://pixabay.com/es/users/naobim-1099306/
-
+https://pixabay.com/es/vectors/coraz%c3%b3n-gato-amor-enamorado-animal-6029680/
