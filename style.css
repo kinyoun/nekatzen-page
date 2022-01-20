@@ -10,7 +10,8 @@ ul,
 .about,
 .images,
 .container,
-.biography{
+.biography,
+.sign-up{
     display: flex;
     align-items: center;
 }
@@ -70,7 +71,7 @@ ul,
     font-size: 18px;
 }
 
-.sign-up-text,
+.sign-up,
 button{
     background-color: #3882F6;
     color: #E5E7EB
@@ -80,6 +81,7 @@ button{
     border-radius: 8px;
     font-size: 18px;
     padding: 3px 30px;
+    border: 2px solid white;
 }
 
 .top-button{
@@ -127,3 +129,10 @@ button{
     border-radius: 8px;
 }
 
+.sign-up{
+    margin:100px 160px;
+    padding: 30px 150px;
+    border-radius: 8px;
+    font-size: 18px;
+    justify-content: space-between;
+}
